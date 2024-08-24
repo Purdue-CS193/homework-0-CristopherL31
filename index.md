@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Cristopher Lopez' First CS193 Homework
+
+- I like that the intructors are also students so their more understanding.
+- They appear enthusiatic and interested in teaching.
+- They voices are not monotone. 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,7 +19,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Bulleted  
 - List
 
 1. Numbered
